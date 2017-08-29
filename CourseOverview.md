@@ -3,7 +3,7 @@
 
 ##Course Overview
 
-Software has become an essential component in all our daily services and products. Good software engineering practices are essential to develop resuable and reliable software. Researchers and practicitioners are constantly developing innovative techniques and tooling to improve software maintenance and reuse. Goals include earlier detection of bugs, faster and more correct use of Application Programming Interfaces (APIs), and smoother refactoring of code for better reuse. 
+Software has become an essential component in all our daily services and products. Good software engineering practices are essential to develop resuable and reliable software. Researchers and practitioners are constantly developing innovative techniques and tooling to improve software maintenance and reuse. Goals include earlier detection of bugs, faster and more correct use of Application Programming Interfaces (APIs), and smoother refactoring of code for better reuse. 
 
 Credits: Many of the advise offered by Ahmed Hassan in his [paper on raising MSR researchers](http://dl.acm.org/citation.cfm?id=2901780) has been integrated in the design of this course.
 
@@ -58,13 +58,13 @@ Please structure your critique as follows:
 * Three bullet points that state the strengths of the paper. For each bullet point, you can add a maximum of 3 sentences elaborating your point.
 * Three bullet points that state technical weaknesses of the paper. For each bullet point, you can add a maximum of 3 sentences to elaborate your point. Think about weaknesses in motivation, assumptions, methodology, or evaluation techniques.
 
-###<span style="color:red">3. Class Participation (5%)</span>
+###<span style="color:red">3. Class Participation (10%)</span>
 
 You are expected to come prepared to class by reading each assigned paper and actively participating in the discussion. 
 
-###<span style="color:red">4. Assignments (25%)</span>
+###<span style="color:red">4. Assignments (20%)</span>
 
-####Assignment 1 (15%)
+####Assignment 1 (10%)
 
 *Assignment 1 is due on September 28, 2017 and its presentation is due on October 3, 2017*
 
