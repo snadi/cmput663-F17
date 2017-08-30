@@ -33,7 +33,7 @@ While each person's presentation style is different, your presentation should in
 
 * Introduce the authors of the paper. Who are they? What are they doing now? What line of work are they particularly famous for? Did they continue working on this topic?
 * Background: What is the paper about ? — give some background about the topic
-* Motivation: What is the problem being addressed? Why is this problem important?
+* Motivation & Goals: What is the problem being addressed? Why is this problem important? What are the authors goals/contributions towards addressig this problem?
 * Methodology: How did the authors address this problem?
 * Evaluation: How did the authors evaluate their solution (if applicable)? What were the results?
 * Limitations/threats: Are there any limitations/threats to the techniques followed? This can include additional points that you see.
@@ -129,11 +129,11 @@ Your presentation should:
 	* Explain how you plan to analyze this data. What tools/techniques will you use?
 * Explain the progress you have made so far. Remember that your final presentation would be in less than a month from that day so you should have made some progress towards your goals by now.
 
-####Project Presentation (15%)
+####Project Presentation (10%)
 
 Project presentations will be held on December 5, 2017 and December 7, 2017. The exact schedule will be posted later.
 
-####Project Report (20%)
+####Project Report (25%)
 
 Your project report should be 10pages maximum, including references, and should be in the IEEE format. Your report will be graded according to the originaility and interestingness of your project, the depth of your work, the correctness of your analysis, and the presentation quality of your written report. Advise on writing technical papers can be found [here](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) and [here](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html).
 
