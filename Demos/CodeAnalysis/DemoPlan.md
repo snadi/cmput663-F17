@@ -60,6 +60,7 @@ Boa homepage is [http://boa.cs.iastate.edu](http://boa.cs.iastate.edu) and conta
 
 Homepage for this line of work is [http://www.ifi.uzh.ch/en/seal/research/tools/changeDistiller.html](http://www.ifi.uzh.ch/en/seal/research/tools/changeDistiller.html) and source code repository is here: [https://bitbucket.org/sealuzh/tools-changedistiller/wiki/Home](https://bitbucket.org/sealuzh/tools-changedistiller/wiki/Home). You can follow the instructions in the repository wiki page to create the necessary jar files. To save time, I have created a project with the created jar file as a dependency and a small code example taken from their page as an example.
 
-1. 
+1. From the cloned course demo, go to `Demos/CodeAnalysis/ChangeDistiller/ChangeDistillerDemo`. You can directly import it as an IntelliJ project, compile it directly, or import it into another IDE
+2. 
 
 
