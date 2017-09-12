@@ -16,7 +16,7 @@ public class MethodInvPrinter {
         ASTParser parser = ASTParser.newParser(AST.JLS3);
         String content = null;
         try {
-            content = FileUtils.readFileToString(new File(VarDeclCounter.class.getClassLoader().getResource("test-inv.java").getFile()), "UTF-8");
+            content = FileUtils.readFileToString(new File(MethodInvPrinter.class.getClassLoader().getResource("test-inv.java").getFile()), "UTF-8");
         } catch (IOException e) {
             e.printStackTrace();
         }

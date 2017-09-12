@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Documents/Academic/Teaching/CMPUT663-F17/Demos/CodeAnalysis/ASTDemos/AST_JDT.iml" filepath="$USER_HOME$/Documents/Academic/Teaching/CMPUT663-F17/Demos/CodeAnalysis/ASTDemos/AST_JDT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AST_JDT.iml" filepath="$PROJECT_DIR$/AST_JDT.iml" />
     </modules>
   </component>
 </project>
