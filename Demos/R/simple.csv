@@ -1,0 +1,16 @@
+trial,mass,velocity,type,building
+A,10,12,pencil,1
+A,11,14,pen,2
+B,5,8,pencil,3
+B,6,10,mug,3
+A,10.5,13,mug,3
+B,7,11,laptop,1
+B,8,12,laptop,1
+A,9,15,laptop,1
+B,7,11,laptop,1
+B,5,8,pencil,3
+B,10,16,pencil,3
+A,2,5,pencil,3
+B,5,8,pencil,3
+B,5,8,pencil,3
+B,5,8,pencil,3
