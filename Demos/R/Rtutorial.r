@@ -41,5 +41,8 @@ summary(simple_data$type) #since this is not numeric data, the different levels 
 summary(simple_data$building) #this is actually encoding for different buildings, so it does not make sense to treat it as numeric
 simple_data$building <- factor(simple_data$building)
 
-# checking for normality
-trial_a <- subset(simple_data, trial=="A")
+# Loading an existing data set to demo plots, distributions etc.
+data(ToothGrowth)
+summary(ToothGrowth)
+names(ToothGrowth)
+plot(density(ToothGrowth$len)) #visualize the distribution
